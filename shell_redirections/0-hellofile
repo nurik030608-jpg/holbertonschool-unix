@@ -1,2 +1,3 @@
-cat /etc/passwd
+dos2unix cat /etc/passwd
 ok
+
